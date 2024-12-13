@@ -1,7 +1,7 @@
 I recreated a Python implementation of the first version of Tetris created by Alexey Pajitnov on the Elektronika 60 with the Curse library ! 
 
 # Original Game
-![Banner Image](OriginalGame.png)
+![Banner Image](Original_Game.png)
 The first version only used ASCII characters and was played in a terminal.
 
 # My Python Implementation
