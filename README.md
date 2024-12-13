@@ -5,4 +5,5 @@ I recreated a Python implementation of the first version of Tetris created by Al
 The first version only used ASCII characters and was played in a terminal.
 
 # My Python Implementation
-![Banner Image](MyGame.png)
+![Banner Image](images/MyGame.png)
+For my implementation, I use a matrix (a list of lists) to represent the game grid, and the pieces are also matrices.
