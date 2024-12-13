@@ -56,9 +56,9 @@ class Tetris:
         in: self
         out:x '''
         self.fenetre.clear()
-        for y, ligne in enumerate(self.grille):                                 #for y in range(hauteur):
-            for x, b in enumerate(ligne):                                           #for x in range(largeur):
-                #Coté gauche de la grille                                               #b = self.grille[y][x]
+        for y, ligne in enumerate(self.grille):                                
+            for x, b in enumerate(ligne):                                           
+                #Coté gauche de la grille                                               
                 if x == 0 and b:
                     self.fenetre.addstr(y, x * 2 , "<!", self.paire_couleurs)
                 #Coté droit de la grille
