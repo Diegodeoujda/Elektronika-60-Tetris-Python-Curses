@@ -33,14 +33,6 @@ I rebuilt the experience using:
 - **← →** : Move piece left/right
 - **↓** : Soft drop (accelerate fall)
 - **↑** or **Space** : Rotate piece
-- **Q** : Quit game
-
-*(Keys may vary — adapt to your implementation!)*
 
 ---
 
-## 📦 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/tetris-elektronika60.git
-   cd tetris-elektronika60
