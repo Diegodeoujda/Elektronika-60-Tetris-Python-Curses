@@ -26,7 +26,6 @@ I rebuilt the experience using:
 - Terminal-only, no GUI — just like 1984.
 
 ![Banner Image](images/MyTetris.gif)
-No colors. No fancy animations. Just falling blocks, rising tension, and inevitable collapse.
 
 ---
 
