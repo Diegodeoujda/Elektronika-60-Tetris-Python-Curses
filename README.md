@@ -2,7 +2,6 @@
 
 > *A faithful Python reimagining of the **original 1984 Tetris** by Aleksei Pajitnov, as it ran on the Soviet **Elektronika 60** computer — now playable in your terminal!*
 
-Built with **Curses** (yes, `curses` — the library, not the words you’ll shout when you lose 😉).
 
 ---
 
@@ -11,7 +10,7 @@ The very first version of Tetris:
 - Ran on the **Elektronika 60**, a Soviet-era computer.
 - Had **no graphics** — just **ASCII characters** in a terminal.
 - Was controlled with simple keys — no mouse, no sound, no frills.
-- Pure, minimalist, and *brutally* addictive.
+- Pure and minimalist
 
 ![Banner Image](images/OriginalTetris.gif)
 
